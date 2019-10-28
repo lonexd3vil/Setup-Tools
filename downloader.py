@@ -5,7 +5,6 @@ import os
 import time 
 
 print("This will be a lengthy process")
-print("It may take around over 1 gb of data so be aware")
 time.sleep(3)
 
 print("SCRIPT STARTING IN 5 SECS")
